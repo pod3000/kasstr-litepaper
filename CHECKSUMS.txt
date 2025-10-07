@@ -1,0 +1,1 @@
+SHA256 (KASSTR_Litepaper_v0.1.0.pdf) = 558f8f6fae76bd8afab3e5238050518d5d8f83e0e3ef209e1d0fdaa8400d8ec9
